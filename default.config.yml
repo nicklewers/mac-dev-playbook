@@ -48,6 +48,7 @@ homebrew_installed_packages:
   - wget
   - wrk
   - zsh-history-substring-search
+  - mongodb-community
 
 homebrew_taps: []
 
