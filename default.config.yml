@@ -66,6 +66,7 @@ homebrew_cask_apps:
   - bitwarden
   - rectangle
   - vlc
+  - spotify
 
 # See `geerlingguy.mas` role documentation for usage instructions.
 mas_installed_apps: []
